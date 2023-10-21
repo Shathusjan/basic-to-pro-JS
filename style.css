@@ -245,3 +245,12 @@
   .transaction:hover .transaction__btn {
     transform: translate(-50%, -50%);
   }
+
+  .no_record{
+    font-size: 14px;
+    color: #7b7b7b;
+  }
+
+  .re_no_record {
+    display: none;
+  }
