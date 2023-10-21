@@ -1,0 +1,21 @@
+@media screen and (max-width:600px){
+    body{
+        width: 100%;
+    }
+    
+    .app {
+        margin: 0 5px;
+        width: 100%;
+
+    }
+
+    .header{
+        width: 100%;
+    }
+
+    .transactions-section {
+        margin: 0 5px;
+        width: 100%;
+    }
+}
+
